@@ -1,4 +1,5 @@
 # Demo
 This is my first Git Repository.
-Author-Milan Lamsal
+<br>
+<b>Author-Milan Lamsal</b>
 
